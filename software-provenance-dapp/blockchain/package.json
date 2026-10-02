@@ -1,0 +1,23 @@
+{
+  "name": "software-provenance-blockchain",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --reset",
+    "test": "truffle test",
+    "console": "truffle console"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  },
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
